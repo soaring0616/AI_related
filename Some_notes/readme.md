@@ -26,18 +26,18 @@
 
 * 接下來是在找 attention 時找到的資源，雖然不方便放在正式文件，但還是可以用來 presentation 的：
   * 以下是主要參考的文獻
-https://classic.d2l.ai/chapter_attention-mechanisms/nadaraya-watson.html
-https://en.wikipedia.org/wiki/Attention_(machine_learning)
-https://arxiv.org/abs/2204.13154
-https://arxiv.org/pdf/1409.0473
+    * https://classic.d2l.ai/chapter_attention-mechanisms/nadaraya-watson.html
+    * https://en.wikipedia.org/wiki/Attention_(machine_learning)
+    * https://arxiv.org/abs/2204.13154
+    * https://arxiv.org/pdf/1409.0473
 
   * 接下來是有參考價值的資源
-https://www.kaggle.com/code/lianghsunhuang/attention-mechanism
-https://lilianweng.github.io/posts/2018-06-24-attention/#summary
-https://en.wikipedia.org/wiki/Neural_machine_translation
-https://socialsci.libretexts.org/Bookshelves/Psychology/Cognitive_Psychology/Cognitive_Psychology_(Andrade_and_Walker)/11%3A_Attention/11.02%3A_History_of_Attention
-https://distill.pub/2016/augmented-rnns/#neural-turing-machines
-https://jaketae.github.io/study/seq2seq-attention/
+    * https://www.kaggle.com/code/lianghsunhuang/attention-mechanism
+    * https://lilianweng.github.io/posts/2018-06-24-attention/#summary
+    * https://en.wikipedia.org/wiki/Neural_machine_translation
+    * https://socialsci.libretexts.org/Bookshelves/Psychology/Cognitive_Psychology/Cognitive_Psychology_(Andrade_and_Walker)/11%3A_Attention/11.02%3A_History_of_Attention
+    * https://distill.pub/2016/augmented-rnns/#neural-turing-machines
+    * https://jaketae.github.io/study/seq2seq-attention/
 
   * 最後就是感謝 NotebookLM 和 Chatgpt；
 Chatgpt 比較容易發散，但 NotebookLM 的好處之一就是「僅限於」使用者所提供的資源；
