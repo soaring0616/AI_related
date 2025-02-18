@@ -19,7 +19,7 @@
 ### A_study_of_attention_mechanics_in_the_industry_of_artificial_intelligence_202410.pdf
 
 * 最受益的是幾個點：
-1. Attention 的q和k的內積其實是傳統統計學的東西，再根本的含義其實是期望值
+1. Attention 的q和k的內積其實是傳統統計學的東西，再根本的含義其實是期望值（但精確一點應該是統計上的 **kernel**） -> [kernel、期望值與條件機率](https://chatgpt.com/share/67b40277-08c8-800a-be0d-067d2a56ccd2)
 2. 從kernel採納了Gaussian filter，softmax自然而然就呼之欲出
 3. 就是對於masked, self-attention, multi-head attention 他們的計算過程比較熟悉一點（裏面也有context vector計算）
 4.  Additive Attention 是在計算成本的考量下，可作為替代的方案；
